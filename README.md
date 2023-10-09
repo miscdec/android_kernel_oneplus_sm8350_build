@@ -1,3 +1,5 @@
+# Download
+https://github.com/awakened1712/android_kernel_oneplus_sm8350_build/actions
 # Kernel Features
 - Built with GCC + Graphite + LTO + PGO
 - Built-in kernel modules for better optimization with LTO
