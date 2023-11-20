@@ -10,8 +10,8 @@ jobs:
     - name: Checkout kernel source
       uses: actions/checkout@v3
       with:
-        repository: awakened1712/android_kernel_oneplus_sm8350
-        ref: lineage-20
+        repository: pjgowtham/android_kernel_oplus_sm8350
+        ref: RMX3461
         path: sm8350
         fetch-depth: 100
 
