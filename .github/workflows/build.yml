@@ -10,7 +10,7 @@ jobs:
     - name: Checkout kernel source
       uses: actions/checkout@v3
       with:
-        repository: pjgowtham/android_kernel_oplus_sm8350
+        repository: miscdec/android_kernel_oplus_sm8350
         ref: RMX3461
         path: sm8350
         fetch-depth: 100
